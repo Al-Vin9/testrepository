@@ -17,6 +17,7 @@ header{
   background-image: url(../images/bg1.jpg);
   
   
+  
 
 }
 
@@ -233,6 +234,13 @@ header{
 
 }
 
+.row .col p, h1{
+
+  background-color: white;
+  margin-right: 10px;
+  text-align: center;
+}
+
 .frames .pic1 img{
 
  width: 400px;
@@ -243,7 +251,40 @@ header{
 .frames ,p a{
 
   font-family: 'Niagara Solid';
-  background-color:dimgray;
+  background-color:rgb(253, 249, 249);
   align-items: center;
   font-size: 25px;
+}
+
+.row .col-mt-2{
+
+  margin-top: 140px;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 25px;
+  font-family: 'OCR A';
+  background-color: white;
+}
+.row , p{
+
+  color: black;
+  text-align: center;
+  font-family: 'Bodoni MT';
+  font-size: 20px ;
+
+
+}
+
+.bottom p{
+
+  font-size: 20px;
+  color: wheat;
+
+}
+
+.container .mb-3{
+
+  color: white;
+  font-size: 15px;
+
 }
