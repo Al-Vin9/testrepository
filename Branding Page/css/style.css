@@ -261,10 +261,23 @@ header{
   margin-top: 140px;
   margin-left: 10px;
   margin-right: 10px;
+  margin-bottom: 10px;
   font-size: 25px;
   font-family: 'OCR A';
   background-color: white;
 }
+
+.row .col-mt-3{
+
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  font-size: 25px;
+  font-family: 'OCR A';
+  background-color: white;
+}
+
 .row , p{
 
   color: black;
